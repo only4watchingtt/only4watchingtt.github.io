@@ -1,0 +1,28 @@
+b
+{
+    font-size: 30pt;
+    color:blue;
+}
+body
+{
+    background-image: url("tło.jpg")
+}
+p1
+{
+    color: darkgreen;
+    font-size: 20pt;
+}
+p2
+{
+    color:brown;
+    font-size: 20pt;
+}
+p3
+{
+    color:deeppink;
+    font-size: 20pt;
+}
+p4
+{
+    font-size: 15pt;
+}
